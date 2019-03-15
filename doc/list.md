@@ -20,7 +20,7 @@
 8.[CSS布局和定位]()  
 9.[CSS伪类和伪元素]()  
 10.[CSS中的长度单位]()  
-10.[课程总结]()  
+11.[课程总结]()  
 ### 3.加入社群
 1.微信二维码  
 ![alt](https://ws2.sinaimg.cn/large/006tKfTcgy1g12mrebgc3j30by0bymxz.jpg)
